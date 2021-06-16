@@ -26,7 +26,7 @@ The Windows XP name, artwork, trademark are surely property of Microsoft. This p
 ## Thanks
 - [Webamp](https://github.com/captbaritone/webamp), Winamp 2 reimplementation by: [captbaritone](https://github.com/captbaritone)
 - [JS Paint](https://github.com/1j01/jspaint), Paint reimplementation by: [1j01](https://github.com/1j01)
-- [Shizukulchi](https://github.com/ShizukuIchi)"# windowsXP" 
+- [Shizukulchi](https://github.com/ShizukuIchi) as the creator of this [source code](https://github.com/ShizukuIchi/winXP)
 
 ## Install
 npm install
