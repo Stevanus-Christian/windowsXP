@@ -34,6 +34,9 @@ The Windows XP name, artwork, trademark are surely property of Microsoft. This p
 - Point command prompt to source code storage directory (cd C:/ or cd D:/)
 - execute npm start
 
+## MIT License
+
+
 
 
 
