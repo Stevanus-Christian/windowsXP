@@ -28,10 +28,12 @@ The Windows XP name, artwork, trademark are surely property of Microsoft. This p
 - [Webamp](https://github.com/captbaritone/webamp), Winamp 2 reimplementation by: [captbaritone](https://github.com/captbaritone)
 - [JS Paint](https://github.com/1j01/jspaint), Paint reimplementation by: [1j01](https://github.com/1j01)
 
-## Install
-npm install
+## How to compile the program code?
+- Download and install Node.js [here](https://nodejs.org/en/download/)
+- Check the installation with CommandPrompt => node -v
+- Point command prompt to source code storage directory (cd C:/ or cd D:/)
+- execute npm start
 
-## Usage
-npm start
+
 
 
