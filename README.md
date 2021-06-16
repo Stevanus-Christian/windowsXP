@@ -19,7 +19,9 @@ Windows XP 👉 https://winxp.now.sh
 
 Generally open an issue (or comment on an issue if there's one already) before starting work on a PR.
 
-## License
+## The MIT License (MIT)
+
+Copyright (c) 2019 Shizuku Yang
 
 The Windows XP name, artwork, trademark are surely property of Microsoft. This project is provided for educational purposes only. It is not affiliated with and has not been approved by Microsoft.
 
@@ -34,7 +36,6 @@ The Windows XP name, artwork, trademark are surely property of Microsoft. This p
 - Point command prompt to source code storage directory (cd C:/ or cd D:/)
 - execute npm start
 
-## MIT License
 
 
 
