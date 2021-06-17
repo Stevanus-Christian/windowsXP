@@ -34,7 +34,8 @@ The Windows XP name, artwork, trademark are surely property of Microsoft. This p
 - Download and install Node.js [here](https://nodejs.org/en/download/)
 - Check the installation with CommandPrompt → node -v
 - Point command prompt to source code storage directory. Example → (cd C:/windowsXP-main) or (cd D:/windowsXP-main)
-- execute npm start
+- execute `npm install`
+- execute `npm start`
 
 
 
