@@ -32,8 +32,8 @@ The Windows XP name, artwork, trademark are surely property of Microsoft. This p
 
 ## How to compile the program code?
 - Download and install Node.js [here](https://nodejs.org/en/download/)
-- Check the installation with CommandPrompt → `node -v`
-- Point CommandPrompt to source code storage directory. Example → `cd C:/windowsXP`
+- Check the installation with Command Prompt → `node -v`
+- Point Command Prompt to source code storage directory. Example → `cd C:/windowsXP`
 - execute `npm install`
 - execute `npm start`
 
