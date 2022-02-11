@@ -21,9 +21,8 @@ Generally open an issue (or comment on an issue if there's one already) before s
 
 ## The MIT License (MIT)
 
-Copyright (c) 2019 [Shizuku Yang](https://github.com/ShizukuIchi)
-
 The Windows XP name, artwork, trademark are surely property of Microsoft. This project is provided for educational purposes only. It is not affiliated with and has not been approved by Microsoft.
+
 ## Thanks
 - [Shizukulchi](https://github.com/ShizukuIchi) as the creator of this [source code](https://github.com/ShizukuIchi/winXP)
 - [Webamp](https://github.com/captbaritone/webamp), Winamp 2 reimplementation by: [captbaritone](https://github.com/captbaritone)
@@ -33,8 +32,8 @@ The Windows XP name, artwork, trademark are surely property of Microsoft. This p
 - Download and install Node.js [here](https://nodejs.org/en/download/)
 - Check the installation with Command Prompt → `node -v`
 - Point Command Prompt to source code storage directory. Example → `cd C:/windowsXP`
-- execute `npm install`
-- execute `npm start`
+- Execute `npm install`
+- Execute `npm start`
 
 
 
