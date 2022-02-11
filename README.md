@@ -19,7 +19,7 @@ Windows XP 👉 https://winxp.now.sh
 
 Generally open an issue (or comment on an issue if there's one already) before starting work on a PR.
 
-## The MIT License (MIT)
+## The Unlicense License
 
 The Windows XP name, artwork, trademark are surely property of Microsoft. This project is provided for educational purposes only. It is not affiliated with and has not been approved by Microsoft.
 
